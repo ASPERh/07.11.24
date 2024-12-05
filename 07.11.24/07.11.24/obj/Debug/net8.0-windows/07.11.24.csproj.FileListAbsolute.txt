@@ -1,0 +1,17 @@
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\bin\Debug\net8.0-windows\07.11.24.exe
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\bin\Debug\net8.0-windows\07.11.24.deps.json
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\bin\Debug\net8.0-windows\07.11.24.runtimeconfig.json
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\bin\Debug\net8.0-windows\07.11.24.dll
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\bin\Debug\net8.0-windows\07.11.24.pdb
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\_07._11._24.Form1.resources
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.csproj.GenerateResource.cache
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.AssemblyInfoInputs.cache
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.AssemblyInfo.cs
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.csproj.CoreCompileInputs.cache
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.dll
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\refint\07.11.24.dll
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.pdb
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\07.11.24.genruntimeconfig.cache
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\ref\07.11.24.dll
+C:\Users\ASPER\source\repos\07.11.24\07.11.24\obj\Debug\net8.0-windows\_07._11._24.MainForm.resources
